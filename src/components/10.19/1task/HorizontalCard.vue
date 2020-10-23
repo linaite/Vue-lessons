@@ -1,8 +1,8 @@
 <template>
   <div class="h-card">
-    <img :src="img" alt="">
+    <img :src="image" alt="">
     <div class="content">
-      {{ content }}
+      {{ text }}
     </div>
   </div>
 </template>
@@ -11,8 +11,8 @@
 export default {
   name: "HorizontalCard.vue",
   props: {
-    img: String,
-    content: String,
+    image: String,
+    text: String,
   }
 }
 </script>

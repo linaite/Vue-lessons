@@ -27,7 +27,7 @@ export default {
       items: [
         {
           photo: "https://g4.dcdn.lt/images/pix/280x170/UPVynmOG5Uk/grumpy-cat-76998943.jpg",
-          text: "mm verry beautiful cat, i would like to pet it"
+          text: "mm very beautiful cat, i would like to pet it"
         },
         {
           photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS5Bm3mL68X5kZ4QEpSm1nIHN6qxSfsRhREyg&usqp=CAU",
